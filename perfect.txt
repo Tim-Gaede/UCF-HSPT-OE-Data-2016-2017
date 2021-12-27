@@ -1,0 +1,10 @@
+1-3: Sample cases
+4-6: Min cases
+7-9: Single window plan
+10-13: No window plans
+14-15: Middle range of plans
+16: Too many windows
+17-20: Single window parities
+21-22: Large number of plans
+23-28: Max cases
+29-45: Various random cases
